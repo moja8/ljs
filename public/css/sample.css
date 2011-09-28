@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+body {
+  margin: 0;
+  padding: 10px;
+  color: #333;
+  background: #fff;
+}
+section {
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+section h1 {
+  margin: -10px -10px 10px;
+  padding: 10px;
+  color: #333;
+  background: #ccc;
+}
